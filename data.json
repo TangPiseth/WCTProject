@@ -1,4 +1,5 @@
-[
+{
+    "province":[
     {
         "id": 1,
         "title": "Phnom Penh",
@@ -150,3 +151,4 @@
         "image": "temple/angkorwat.jpg"
     }
 ]
+}
