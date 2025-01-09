@@ -1,16 +1,152 @@
-{
-"province":[
-        {
-            "id": 1,
-            "title": "Angkor Wat",
-            "description": "A UNESCO World Heritage Site in Cambodia.",
-            "image": "temple/angkorwat.jpg"
-        },
-        {
-            "id": 2,
-            "title": "Koh Rong",
-            "description": "A beautiful island in Cambodia known for its beaches.",
-            "image": "temple/angkorwat.jpg"
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "title": "Phnom Penh",
+        "description": "The capital and largest city of Cambodia.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Siem Reap",
+        "description": "Known for the Angkor Wat temple complex.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Battambang",
+        "description": "Famous for its colonial architecture and countryside.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Sihanoukville",
+        "description": "A coastal city with beautiful beaches.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Kampong Cham",
+        "description": "A province with riverside views and traditional villages.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Kampong Thom",
+        "description": "Known for its ancient temples and rural landscapes.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Kampot",
+        "description": "A coastal province known for pepper farming and salt production.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Koh Kong",
+        "description": "A province with beautiful natural parks and beaches.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Takeo",
+        "description": "Known for its historical temples and rural charm.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Prey Veng",
+        "description": "A province with a rich agricultural heritage.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Svay Rieng",
+        "description": "A province in southeastern Cambodia, known for its rice fields.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Kandal",
+        "description": "Surrounds Phnom Penh and is known for its riverside scenery.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Pursat",
+        "description": "Famous for its natural landscapes and traditional agriculture.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Preah Vihear",
+        "description": "A province in the north, known for the Preah Vihear Temple.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Ratanakiri",
+        "description": "Known for its mountains, waterfalls, and ethnic diversity.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Mondulkiri",
+        "description": "A mountainous province with rich biodiversity.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Kratie",
+        "description": "Famous for its freshwater dolphins in the Mekong River.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Banteay Meanchey",
+        "description": "A border province with a strong agricultural economy.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Oddar Meanchey",
+        "description": "Known for its mountainous terrain and rural development.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Steung Treng",
+        "description": "A province in the northeast with abundant natural resources.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 21,
+        "title": "Tboung Khmum",
+        "description": "Known for its agricultural economy, particularly rice production.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Koh Kong",
+        "description": "A province with stunning beaches and national parks.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Kampong Speu",
+        "description": "A province with agricultural richness and mountainous terrain.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Phnom Penh",
+        "description": "The capital of Cambodia, home to vibrant markets and historical sites.",
+        "image": "temple/angkorwat.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Banteay Meanchey",
+        "description": "A province known for its rural landscapes and growing economy.",
+        "image": "temple/angkorwat.jpg"
+    }
+]
