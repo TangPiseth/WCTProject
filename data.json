@@ -3,12 +3,12 @@
         "id": 1,
         "title": "Angkor Wat",
         "description": "A UNESCO World Heritage Site in Cambodia.",
-        "image": "image/temple/angkorwat.jpg"
+        "image": "temple/angkorwat.jpg"
     },
     {
         "id": 2,
         "title": "Koh Rong",
         "description": "A beautiful island in Cambodia known for its beaches.",
-        "image": "image/temple/angkorwat.jpg"
+        "image": "temple/angkorwat.jpg"
     }
 ]
