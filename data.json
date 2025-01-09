@@ -1,14 +1,16 @@
-[
-    {
-        "id": 1,
-        "title": "Angkor Wat",
-        "description": "A UNESCO World Heritage Site in Cambodia.",
-        "image": "temple/angkorwat.jpg"
-    },
-    {
-        "id": 2,
-        "title": "Koh Rong",
-        "description": "A beautiful island in Cambodia known for its beaches.",
-        "image": "temple/angkorwat.jpg"
-    }
-]
+{
+"Province":[
+        {
+            "id": 1,
+            "title": "Angkor Wat",
+            "description": "A UNESCO World Heritage Site in Cambodia.",
+            "image": "temple/angkorwat.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Koh Rong",
+            "description": "A beautiful island in Cambodia known for its beaches.",
+            "image": "temple/angkorwat.jpg"
+        }
+    ]
+}
