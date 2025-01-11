@@ -174,7 +174,7 @@
             "id": 29,
             "name": "Bayon",
             "description": "A province with riverside views and traditional villages.",
-            "image": "temple/Bayon.png"
+            "image": "temple/bayon.png"
           },
           {
             "id": 30,
@@ -184,18 +184,12 @@
           },
           {
             "id": 31,
-            "name": "Bayon",
-            "description": "A province with riverside views and traditional villages.",
-            "image": "temple/Bayon.png"
-          },
-          {
-            "id": 32,
             "name": "Preah Vihear",
             "description": "A province with riverside views and traditional villages.",
             "image": "temple/preahvihear.png"
           },
           {
-            "id": 33,
+            "id": 32,
             "name": "Sambor PreiKuk",
             "description": "A province with riverside views and traditional villages.",
             "image": "temple/samborpreikuk.png"
@@ -203,15 +197,15 @@
         ],
         "beachArea": [
           {
-            "id": 34,
+            "id": 33,
             "name": "Dara Sakor",
             "description": "Beautiful island with white sandy beaches.",
-            "image": "beach/kohrong.png"
+            "image": "beach/darasakorbeach.png"
           }
         ],
         "mountainArea": [
           {
-            "id": 35,
+            "id": 34,
             "name": "Phnom Kulen",
             "description": "Known for its waterfalls and historical significance.",
             "image": "mountain/phnomkulen.png"
@@ -219,7 +213,7 @@
         ],
         "recreationArea": [
           {
-            "id": 36,
+            "id": 35,
             "name": "Central Market",
             "description": "Popular coastal city with a laid-back vibe.",
             "image": "recreation/centralmarket.png"
