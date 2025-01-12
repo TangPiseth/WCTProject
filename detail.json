@@ -1,0 +1,154 @@
+{
+    "province": [
+      {
+        "id": 1,
+        "title": "Phnom Penh",
+        "description": "The capital and largest city of Cambodia.",
+        "image": "province/phnompenh.png"
+      },
+      {
+        "id": 2,
+        "title": "Siem Reap",
+        "description": "Known for the Angkor Wat temple complex.",
+        "image": "province/siemreap.png"
+      },
+      {
+        "id": 3,
+        "title": "Battambang",
+        "description": "Famous for its colonial architecture and countryside.",
+        "image": "province/battambang.png"
+      },
+      {
+        "id": 4,
+        "title": "Kampong Cham",
+        "description": "A province with riverside views and traditional villages.",
+        "image": "province/kampongcham.png"
+      },
+      {
+        "id": 5,
+        "title": "Kampong Chhnang",
+        "description": "Known for its pottery and floating villages.",
+        "image": "province/kampongchhnang.png"
+      },
+      {
+        "id": 6,
+        "title": "Kampong Speu",
+        "description": "A province with agricultural richness and mountainous terrain.",
+        "image": "province/kampongspeu.png"
+      },
+      {
+        "id": 7,
+        "title": "Kampong Thom",
+        "description": "Known for its ancient temples and rural landscapes.",
+        "image": "province/kampongthom.png"
+      },
+      {
+        "id": 8,
+        "title": "Kandal",
+        "description": "Surrounds Phnom Penh and is known for its riverside scenery.",
+        "image": "province/kandal.png"
+      },
+      {
+        "id": 9,
+        "title": "Koh Kong",
+        "description": "A province with beautiful natural parks and beaches.",
+        "image": "province/kohkong.png"
+      },
+      {
+        "id": 10,
+        "title": "Kratie",
+        "description": "Famous for its freshwater dolphins in the Mekong River.",
+        "image": "province/kratie.png"
+      },
+      {
+        "id": 11,
+        "title": "Mondulkiri",
+        "description": "A mountainous province with rich biodiversity.",
+        "image": "province/mondulkiri.png"
+      },
+      {
+        "id": 12,
+        "title": "Preah Vihear",
+        "description": "A province in the north, known for the Preah Vihear Temple.",
+        "image": "province/preahvihear.png"
+      },
+      {
+        "id": 13,
+        "title": "Prey Veng",
+        "description": "A province with a rich agricultural heritage.",
+        "image": "province/preyveng.png"
+      },
+      {
+        "id": 14,
+        "title": "Pursat",
+        "description": "Famous for its natural landscapes and traditional agriculture.",
+        "image": "province/pursat.png"
+      },
+      {
+        "id": 15,
+        "title": "Ratanakiri",
+        "description": "Known for its mountains, waterfalls, and ethnic diversity.",
+        "image": "province/rattanakiri.png"
+      },
+      {
+        "id": 16,
+        "title": "Kampot",
+        "description": "Home to the world-famous Angkor Wat temple complex.",
+        "image": "province/kampot.png"
+      },
+      {
+        "id": 17,
+        "title": "Sihanoukville",
+        "description": "A coastal city with beautiful beaches.",
+        "image": "province/sihanoukville.png"
+      },
+      {
+        "id": 18,
+        "title": "Steung Treng",
+        "description": "A province in the northeast with abundant natural resources.",
+        "image": "province/stungtreng.png"
+      },
+      {
+        "id": 19,
+        "title": "Svay Rieng",
+        "description": "A province in southeastern Cambodia, known for its rice fields.",
+        "image": "province/svayrieng.png"
+      },
+      {
+        "id": 20,
+        "title": "Takeo",
+        "description": "Known for its historical temples and rural charm.",
+        "image": "province/takeo.png"
+      },
+      {
+        "id": 21,
+        "title": "Tboung Khmum",
+        "description": "Known for its agricultural economy, particularly rice production.",
+        "image": "province/tbongkhmum.png"
+      },
+      {
+        "id": 22,
+        "title": "Oddar Meanchey",
+        "description": "Known for its mountainous terrain and rural development.",
+        "image": "province/oddormeanchey.png"
+      },
+      {
+        "id": 23,
+        "title": "Banteay Meanchey",
+        "description": "A border province with a strong agricultural economy.",
+        "image": "province/banteaymeanchey.png"
+      },
+      {
+        "id": 24,
+        "title": "Pailin",
+        "description": "A small province known for its gem mining history.",
+        "image": "province/pailin.png"
+      },
+      {
+        "id": 25,
+        "title": "Kep",
+        "description": "A small province known for its beautiful beach and seafood.",
+        "image": "province/kep.png"
+      }
+    ]
+}
