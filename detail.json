@@ -15,240 +15,240 @@
       "title": "Siem Reap",
       "description": "Siem Reap is internationally renowned for the Angkor Wat temple complex, one of the largest religious monuments in the world. Beyond the temples, Siem Reap offers a charming atmosphere with bustling markets, traditional performances, and a gateway to Cambodia's rich ancient history.",
       "image": "province/siemreap.png",
-      "pictures1": "temple/angkorwat.png",
-      "pictures2": "temple/bayon.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/sr1.png",
+      "pictures2": "province/sr2.png",
+      "pictures3": "province/sr3.png",
+      "pictures4": "province/sr4.png"
     },
     {
       "id": 3,
       "title": "Battambang",
       "description": "Battambang is famous for its well-preserved colonial architecture and picturesque countryside, offering a glimpse into traditional rural life. Visitors can explore the stunning surroundings, including the famous bamboo train and beautiful temples.",
       "image": "province/battambang.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/btb1.png",
+      "pictures2": "province/btb2.png",
+      "pictures3": "province/btb3.png",
+      "pictures4": "province/btb4.png"
     },
     {
       "id": 4,
       "title": "Kampong Cham",
       "description": "Kampong Cham, located along the banks of the Mekong River, offers serene riverside views, picturesque landscapes, and traditional villages. It is one of Cambodia’s oldest provinces and boasts a peaceful atmosphere with opportunities to explore natural and cultural attractions.",
       "image": "province/kampongcham.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/kpcham1.png",
+      "pictures2": "province/kpcham2.png",
+      "pictures3": "province/kpcham3.png",
+      "pictures4": "province/kpcham4.png"
     },
     {
       "id": 5,
       "title": "Kampong Chhnang",
       "description": "Kampong Chhnang is known for its thriving pottery industry and unique floating villages on Tonle Sap Lake. It provides visitors with an insight into the traditional craftsmanship and rural life of Cambodia, all set against the backdrop of scenic water views.",
       "image": "province/kampongchhnang.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/kpc1.png",
+      "pictures2": "province/kpc2.png",
+      "pictures3": "province/kpc3.png",
+      "pictures4": "province/kpc4.png"
     },
     {
       "id": 6,
       "title": "Kampong Speu",
       "description": "Kampong Speu is a province characterized by its fertile agricultural land and mountainous terrain. The province is renowned for its crops, particularly its production of palm sugar, and offers plenty of opportunities for exploring nature and enjoying local produce.",
       "image": "province/kampongspeu.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/kps1.png",
+      "pictures2": "province/kps2.png",
+      "pictures3": "province/kps3.png",
+      "pictures4": "province/kps4.png"
     },
     {
       "id": 7,
       "title": "Kampong Thom",
       "description": "Kampong Thom is a province steeped in history, with ancient temples such as the Sambor Prei Kuk temple complex, which dates back to the 7th century. The province also offers beautiful rural landscapes, making it a perfect spot for those looking to explore Cambodia’s cultural heritage and natural beauty.",
       "image": "province/kampongthom.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/kpt1.png",
+      "pictures2": "province/kpt2.png",
+      "pictures3": "province/kpt3.png",
+      "pictures4": "province/kpt4.png"
     },
     {
       "id": 8,
       "title": "Kandal",
       "description": "Kandal, located just surrounding Phnom Penh, is known for its peaceful riverside scenery and vibrant rural villages. It offers a balance of proximity to the capital while still maintaining a relaxed and scenic environment, perfect for exploring Cambodia’s agricultural lifestyle.",
       "image": "province/kandal.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/kd1.png",
+      "pictures2": "province/kd2.png",
+      "pictures3": "province/kd3.png",
+      "pictures4": "province/kd4.png"
     },
     {
       "id": 9,
       "title": "Koh Kong",
       "description": "Koh Kong is a coastal province famed for its pristine natural parks and beautiful beaches. It is a paradise for nature lovers, offering a wealth of biodiversity, including tropical rainforests, diverse wildlife, and serene coastlines for adventure seekers.",
       "image": "province/kohkong.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/kk1.png",
+      "pictures2": "province/kk2.png",
+      "pictures3": "province/kk3.png",
+      "pictures4": "province/kk4.png"
     },
     {
       "id": 10,
       "title": "Kratie",
       "description": "Kratie is famous for its freshwater dolphins, particularly the rare Irrawaddy dolphins that inhabit the Mekong River. The province offers a tranquil escape with stunning river views and a deep connection to nature, making it a must-visit for wildlife enthusiasts.",
       "image": "province/kratie.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/katie1.png",
+      "pictures2": "province/katie2.png",
+      "pictures3": "province/katie3.png",
+      "pictures4": "province/katie4.png"
     },
     {
       "id": 11,
       "title": "Mondulkiri",
       "description": "Mondulkiri is a mountainous province in the eastern part of Cambodia, known for its rich biodiversity and lush landscapes. It is home to wildlife reserves, waterfalls, and indigenous communities, making it an ideal destination for eco-tourism and nature lovers.",
       "image": "province/mondulkiri.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/mdkr1.png",
+      "pictures2": "province/mdkr2.png",
+      "pictures3": "province/mdkr3.png",
+      "pictures4": "province/mdkr4.png"
     },
     {
       "id": 12,
       "title": "Preah Vihear",
       "description": "Preah Vihear is located in the northern part of Cambodia and is home to the Preah Vihear Temple, a UNESCO World Heritage site. The province is renowned for its dramatic cliffs, stunning views, and ancient cultural landmarks that offer a unique glimpse into Cambodia's past.",
       "image": "province/preahvihear.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/pvh1.png",
+      "pictures2": "province/pvh2.png",
+      "pictures3": "province/pvh3.png",
+      "pictures4": "province/pvh4.png"
     },
     {
       "id": 13,
       "title": "Prey Veng",
       "description": "Prey Veng is a province known for its fertile agricultural lands, particularly its rice fields. The province provides a peaceful rural environment, showcasing Cambodia’s agricultural heartland and offering visitors a chance to experience traditional farming practices.",
       "image": "province/preyveng.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/pv1.png",
+      "pictures2": "province/pv2.png",
+      "pictures3": "province/pv3.png",
+      "pictures4": "province/pv4.png"
     },
     {
       "id": 14,
       "title": "Pursat",
       "description": "Pursat is renowned for its natural landscapes, including stunning lakes and mountains, as well as its long-standing agricultural traditions. The province offers a tranquil atmosphere, where visitors can enjoy outdoor activities such as boating and exploring local farms.",
       "image": "province/pursat.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/ps1.png",
+      "pictures2": "province/ps2.png",
+      "pictures3": "province/ps3.png",
+      "pictures4": "province/ps4.png"
     },
     {
       "id": 15,
       "title": "Ratanakiri",
       "description": "Ratanakiri is known for its breathtaking mountains, waterfalls, and diverse ethnic communities. The province is rich in natural beauty, providing an ideal setting for eco-tourism and adventure activities, such as trekking, wildlife spotting, and cultural tours.",
       "image": "province/rattanakiri.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/rtnkr1.png",
+      "pictures2": "province/rtnkr2.png",
+      "pictures3": "province/rtnkr3.png",
+      "pictures4": "province/rtnkr4.png"
     },
     {
       "id": 16,
       "title": "Kampot",
       "description": "Kampot is a coastal province located near the Gulf of Thailand, famous for its stunning beaches, pepper plantations, and historical sites. It offers a charming small-town atmosphere, perfect for those seeking a blend of relaxation and exploration in Cambodia.",
       "image": "province/kampot.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/kp1.png",
+      "pictures2": "province/kp2.png",
+      "pictures3": "province/kp3.png",
+      "pictures4": "province/kp4.png"
     },
     {
       "id": 17,
       "title": "Sihanoukville",
       "description": "Sihanoukville is a bustling coastal city with beautiful beaches and vibrant nightlife, making it a popular destination for both relaxation and entertainment. The province also serves as a gateway to nearby islands and has been rapidly developing into a regional tourism hub.",
       "image": "province/sihanoukville.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/shn1.png",
+      "pictures2": "province/shn2.png",
+      "pictures3": "province/shn3.png",
+      "pictures4": "province/shn4.png"
     },
     {
       "id": 18,
       "title": "Steung Treng",
       "description": "Steung Treng, located in the northeast of Cambodia, is known for its abundant natural resources, including forests, rivers, and wildlife. It is an area of untapped potential for eco-tourism, with opportunities for boating, hiking, and exploring unspoiled wilderness.",
       "image": "province/stungtreng.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/st1.png",
+      "pictures2": "province/st2.png",
+      "pictures3": "province/st3.png",
+      "pictures4": "province/st4.png"
     },
     {
       "id": 19,
       "title": "Svay Rieng",
       "description": "Svay Rieng is located in southeastern Cambodia and is known for its vast rice fields and agricultural activities. The province offers a glimpse into the rural life of Cambodia, with many farms and peaceful landscapes awaiting exploration.",
       "image": "province/svayrieng.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/svayrieng1.png",
+      "pictures2": "province/svayrieng2.png",
+      "pictures3": "province/svayrieng3.png",
+      "pictures4": "province/svayrieng4.png"
     },
     {
       "id": 20,
       "title": "Takeo",
       "description": "Takeo is a historical province in southern Cambodia, known for its ancient temples, including the Angkorian-era temples of Phnom Da and Angkor Borei. The province combines rural charm with a rich cultural heritage, making it an excellent destination for history buffs.",
       "image": "province/takeo.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/tk1.png",
+      "pictures2": "province/tk2.png",
+      "pictures3": "province/tk3.png",
+      "pictures4": "province/tk4.png"
     },
     {
       "id": 21,
       "title": "Tboung Khmum",
       "description": "Tboung Khmum is a province known for its agricultural economy, particularly rice production. The province offers a tranquil rural landscape with vast rice fields and farming villages, providing visitors a unique insight into Cambodia’s agricultural traditions.",
       "image": "province/tbongkhmum.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/tbongkhmum1.png",
+      "pictures2": "province/tbongkhmum2.png",
+      "pictures3": "province/tbongkhmum3.png",
+      "pictures4": "province/tbongkhmum4.png"
     },
     {
       "id": 22,
       "title": "Oddar Meanchey",
       "description": "Oddar Meanchey is a province located in the northern part of Cambodia, known for its mountainous terrain and growing focus on rural development. It offers a serene environment, with opportunities for exploring natural reserves and engaging in outdoor activities.",
       "image": "province/oddormeanchey.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/odmc1.png",
+      "pictures2": "province/odmc2.png",
+      "pictures3": "province/odmc3.png",
+      "pictures4": "province/odm4.png"
     },
     {
       "id": 23,
       "title": "Banteay Meanchey",
       "description": "Banteay Meanchey is a border province with a strong agricultural economy, particularly in rice and sugarcane cultivation. The province is a hub for trade and offers visitors an authentic experience of rural Cambodian life with scenic views of the countryside.",
       "image": "province/banteaymeanchey.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/btmc1.png",
+      "pictures2": "province/btmc2.png",
+      "pictures3": "province/btmc3.png",
+      "pictures4": "province/btmc4.png"
     },
     {
       "id": 24,
       "title": "Pailin",
       "description": "Pailin is a small province with a fascinating history of gem mining, especially its precious stones like sapphires and rubies. Visitors can explore the province's natural beauty, visit mining sites, and discover its unique gem trade that attracts travelers from all over the world.",
       "image": "province/pailin.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/pl1.png",
+      "pictures2": "province/pl2.png",
+      "pictures3": "province/pl3.png",
+      "pictures4": "province/pl4.png"
     },
     {
       "id": 25,
       "title": "Kep",
       "description": "Kep is a coastal province known for its pristine beaches, fresh seafood, and laid-back atmosphere. It is a popular destination for those looking to escape the hustle and bustle of city life and enjoy the natural beauty of Cambodia’s coastline.",
       "image": "province/kep.png",
-      "pictures1": "province/phnompenh.png",
-      "pictures2": "province/phnompenh.png",
-      "pictures3": "province/phnompenh.png",
-      "pictures4": "province/phnompenh.png"
+      "pictures1": "province/kep1.png",
+      "pictures2": "province/kep2.png",
+      "pictures3": "province/kep3.png",
+      "pictures4": "province/kep4.png"
     }
   ],
   "templeArea": [
