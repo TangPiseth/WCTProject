@@ -255,7 +255,7 @@
     {
       "id": 26,
       "name": "Angkor Wat",
-      "description": "A majestic temple complex, known as the largest religious monument in the world.",
+      "description": "A majestic temple complex, known as the largest religious monument in the world. This architectural marvel features intricate carvings, soaring towers, and expansive galleries, making it one of the most important cultural and religious sites in Cambodia. Its grandeur and historical significance attract visitors from around the globe.",
       "image": "temple/angkorwat.png",
       "pictures1": "recreation/angkorwat1.png",
       "pictures2": "recreation/angkorwat2.png",
@@ -265,7 +265,7 @@
     {
       "id": 27,
       "name": "Banteay Chhmar",
-      "description": "Renowned for its intricate carvings and enigmatic smiling faces.",
+      "description": "Renowned for its intricate carvings and enigmatic smiling faces, Banteay Chhmar is a striking and less-visited temple that showcases the artistry and engineering of the Khmer Empire. The temple is surrounded by dense jungle, adding to its mystical and untouched atmosphere.",
       "image": "temple/banteaychhmar.png",
       "pictures1": "recreation/banteaychhmar1.png",
       "pictures2": "recreation/banteaychhmar2.png",
@@ -275,7 +275,7 @@
     {
       "id": 28,
       "name": "Banteay Srei",
-      "description": "Famous for its pink sandstone and exquisite decorative carvings.",
+      "description": "Famous for its pink sandstone and exquisite decorative carvings, Banteay Srei is often regarded as one of the most beautiful temples in Cambodia. Its delicate and detailed carvings depict Hindu mythology and are a testament to the skill of ancient artisans.",
       "image": "temple/banteaysrei.png",
       "pictures1": "recreation/banteaysrei1.png",
       "pictures2": "recreation/banteaysrei2.png",
@@ -285,7 +285,7 @@
     {
       "id": 29,
       "name": "Bayon",
-      "description": "Notable for its massive stone faces and rich historical significance.",
+      "description": "Notable for its massive stone faces and rich historical significance, Bayon Temple is a striking example of Khmer architecture and a symbol of Cambodia’s rich cultural heritage. The temple features over 200 giant faces of Avalokiteshvara, creating a mesmerizing atmosphere.",
       "image": "temple/bayon.png",
       "pictures1": "recreation/bayon1.png",
       "pictures2": "recreation/bayon2.png",
@@ -295,7 +295,7 @@
     {
       "id": 30,
       "name": "Koh Ker",
-      "description": "An ancient city featuring unique pyramid-like temple architecture.",
+      "description": "An ancient city featuring unique pyramid-like temple architecture, Koh Ker was once the capital of the Khmer Empire. The temples here are notable for their distinct and towering pyramid structures, offering a different architectural style compared to other Khmer sites.",
       "image": "temple/kohker.png",
       "pictures1": "recreation/kohker1.png",
       "pictures2": "recreation/kohker2.png",
@@ -305,7 +305,7 @@
     {
       "id": 31,
       "name": "Preah Vihear",
-      "description": "A stunning mountaintop temple offering breathtaking views of the surroundings.",
+      "description": "A stunning mountaintop temple offering breathtaking views of the surrounding plains, Preah Vihear is perched on a 525-meter cliff, making it one of the most dramatic and scenic temples in Cambodia. Its remote location and impressive layout make it a UNESCO World Heritage site.",
       "image": "temple/preahvihear.png",
       "pictures1": "recreation/preahvihear1.png",
       "pictures2": "recreation/preahvihear2.png",
@@ -315,7 +315,7 @@
     {
       "id": 32,
       "name": "Sambor PreiKuk",
-      "description": "One of Cambodia’s oldest temple complexes, surrounded by dense forests.",
+      "description": "One of Cambodia’s oldest temple complexes, surrounded by dense forests, Sambor PreiKuk is a peaceful and historical site. The temple, built during the 7th century, is a reminder of the ancient Khmer Empire and is a UNESCO World Heritage site known for its tranquility and historical significance.",
       "image": "temple/samborpreikuk.png",
       "pictures1": "recreation/samborpreikuk1.png",
       "pictures2": "recreation/samborpreikuk2.png",
@@ -327,7 +327,7 @@
     {
       "id": 33,
       "name": "Dara Sakor",
-      "description": "A pristine coastline with unspoiled beaches and scenic views.",
+      "description": "A pristine coastline with unspoiled beaches and scenic views, Dara Sakor is a tranquil and less crowded beach destination. Its clear waters, soft sands, and picturesque landscapes make it an ideal place for relaxation and enjoying nature.",
       "image": "beach/darasakorbeach.png",
       "pictures1": "recreation/darasakorbeach1.png",
       "pictures2": "recreation/darasakorbeach2.png",
@@ -337,7 +337,7 @@
     {
       "id": 34,
       "name": "Kep Beach",
-      "description": "A tranquil beach known for its calm waters and fresh seafood.",
+      "description": "A tranquil beach known for its calm waters and fresh seafood, Kep Beach offers a serene environment for visitors to unwind. It is famous for its natural beauty and proximity to local seafood markets, making it a must-visit for food lovers.",
       "image": "beach/kepbeach.png",
       "pictures1": "recreation/kepbeach1.png",
       "pictures2": "recreation/kepbeach2.png",
@@ -347,7 +347,7 @@
     {
       "id": 35,
       "name": "Ochheuteal Beach",
-      "description": "A lively beach destination with golden sands and vibrant nightlife.",
+      "description": "A lively beach destination with golden sands and vibrant nightlife, Ochheuteal Beach is perfect for those looking for both relaxation and excitement. The beach is popular for water sports and the bustling atmosphere that comes alive in the evening with bars and restaurants.",
       "image": "beach/ochheutealbeach.png",
       "pictures1": "recreation/ochheutealbeach1.png",
       "pictures2": "recreation/ochheutealbeach2.png",
@@ -357,7 +357,7 @@
     {
       "id": 36,
       "name": "Prek Treng Beach",
-      "description": "A peaceful getaway with crystal-clear waters and soft sands.",
+      "description": "A peaceful getaway with crystal-clear waters and soft sands, Prek Treng Beach is an unspoiled destination offering a quiet and serene atmosphere. Its beauty makes it a perfect spot for those looking to escape the crowds and enjoy nature in peace.",
       "image": "beach/prektrengbeach.png",
       "pictures1": "recreation/prektrengbeach1.png",
       "pictures2": "recreation/prektrengbeach2.png",
@@ -367,7 +367,7 @@
     {
       "id": 37,
       "name": "Sokha Beach",
-      "description": "A private beach offering luxury resorts and serene surroundings.",
+      "description": "A private beach offering luxury resorts and serene surroundings, Sokha Beach is a haven for travelers seeking a more exclusive and relaxing experience. The pristine waters and high-end facilities make it an ideal destination for a luxurious beach vacation.",
       "image": "beach/sokhabeach.png",
       "pictures1": "recreation/sokhabeach1.png",
       "pictures2": "recreation/sokhabeach2.png",
@@ -377,7 +377,7 @@
     {
       "id": 38,
       "name": "Tabarang Beach",
-      "description": "A hidden gem with picturesque landscapes and quiet shores.",
+      "description": "A hidden gem with picturesque landscapes and quiet shores, Tabarang Beach offers an off-the-beaten-path experience for those seeking tranquility. The beach's beauty and remoteness make it a perfect place to unwind and connect with nature.",
       "image": "beach/tabarangbeach.png",
       "pictures1": "recreation/tabarangbeach1.png",
       "pictures2": "recreation/tabarangbeach2.png",
@@ -389,7 +389,7 @@
     {
       "id": 39,
       "name": "Phnom Kulen",
-      "description": "A sacred mountain with waterfalls, ancient ruins, and religious significance.",
+      "description": "A sacred mountain with waterfalls, ancient ruins, and religious significance, Phnom Kulen is one of Cambodia’s most revered mountains. It is known for its beautiful landscape, including the famous Kulen Waterfall, and its historical importance as the birthplace of the ancient Khmer Empire.",
       "image": "mountain/phnomkulen.png",
       "pictures1": "recreation/phnomkulen1.png",
       "pictures2": "recreation/phnomkulen2.png",
@@ -399,7 +399,7 @@
     {
       "id": 40,
       "name": "Phnom Aural",
-      "description": "Cambodia’s highest peak, surrounded by lush greenery and wildlife.",
+      "description": "Cambodia’s highest peak, surrounded by lush greenery and wildlife, Phnom Aural offers an incredible natural experience for those seeking adventure. The mountain is a popular destination for trekking and wildlife watching, with panoramic views at the summit.",
       "image": "mountain/phnomaural.png",
       "pictures1": "recreation/phnomaural1.png",
       "pictures2": "recreation/phnomaural2.png",
@@ -409,7 +409,7 @@
     {
       "id": 41,
       "name": "Phnom Bokor",
-      "description": "A misty mountain retreat with historical buildings and scenic views.",
+      "description": "A misty mountain retreat with historical buildings and scenic views, Phnom Bokor is home to a French colonial-era resort and the famous Bokor Hill Station. Its cool climate, historical sites, and beautiful views of the coastline make it a unique destination.",
       "image": "mountain/phnombokor.png",
       "pictures1": "recreation/phnombokor1.png",
       "pictures2": "recreation/phnombokor2.png",
@@ -419,7 +419,7 @@
     {
       "id": 42,
       "name": "Phnom Santuk",
-      "description": "A revered pilgrimage site with stone carvings and panoramic views.",
+      "description": "A revered pilgrimage site with stone carvings and panoramic views, Phnom Santuk is a sacred mountain offering both spiritual significance and natural beauty. The mountain provides a peaceful retreat for visitors and pilgrims alike, with stunning views of the surrounding countryside.",
       "image": "mountain/phnomsantuk.png",
       "pictures1": "recreation/phnomsantuk1.png",
       "pictures2": "recreation/phnomsantuk2.png",
@@ -429,7 +429,7 @@
     {
       "id": 43,
       "name": "Phnom Udong",
-      "description": "A historical site and former royal capital with ancient stupas.",
+      "description": "A historical site and former royal capital with ancient stupas, Phnom Udong offers insight into Cambodia’s royal past. The mountain is dotted with pagodas and stupas, offering visitors a glimpse of the country's rich history and magnificent views of the surrounding landscape.",
       "image": "mountain/phnomudong.png",
       "pictures1": "recreation/15001.png",
       "pictures2": "recreation/15002.png",
@@ -441,7 +441,7 @@
     {
       "id": 44,
       "name": "Central Market",
-      "description": "A vibrant art deco market offering souvenirs, jewelry, and local cuisine.",
+      "description": "A vibrant art deco market offering souvenirs, jewelry, and local cuisine, the Central Market is a bustling hub in Phnom Penh. It is a great place for shopping, people-watching, and enjoying the city's lively atmosphere.",
       "image": "recreation/centralmarket.png",
       "pictures1": "recreation/centralmarket1.png",
       "pictures2": "recreation/centralmarket2.png",
@@ -451,7 +451,7 @@
     {
       "id": 45,
       "name": "Choeung Ek Genocidal Center",
-      "description": "A somber site commemorating Cambodia’s history and the Khmer Rouge period.",
+      "description": "A somber site commemorating Cambodia’s history and the Khmer Rouge period, Choeung Ek serves as a reminder of the country’s tragic past. Visitors can learn about the atrocities committed during this time while paying respects to the victims.",
       "image": "recreation/choeungekgenocidalcenter.png",
       "pictures1": "recreation/choeungekgenocidalcenter1.png",
       "pictures2": "recreation/choeungekgenocidalcenter2.png",
@@ -461,7 +461,7 @@
     {
       "id": 46,
       "name": "National Museum",
-      "description": "A museum showcasing Cambodia’s rich cultural heritage and artifacts.",
+      "description": "A museum showcasing Cambodia’s rich cultural heritage and artifacts, the National Museum is home to an extensive collection of ancient art, sculptures, and relics. It offers visitors an in-depth look at Cambodia’s history and artistic traditions.",
       "image": "recreation/nationalmuseum.png",
       "pictures1": "recreation/nationalmuseum1.png",
       "pictures2": "recreation/nationalmuseum2.png",
@@ -471,7 +471,7 @@
     {
       "id": 47,
       "name": "Pub Street",
-      "description": "A bustling nightlife hub with restaurants, bars, and street performances.",
+      "description": "A bustling nightlife hub with restaurants, bars, and street performances, Pub Street is the heart of Siem Reap’s entertainment scene. The street is lined with vibrant establishments and offers visitors a taste of Cambodia’s nightlife.",
       "image": "recreation/pubstreet.png",
       "pictures1": "recreation/pubstreet1.png",
       "pictures2": "recreation/pubstreet2.png",
@@ -481,7 +481,7 @@
     {
       "id": 48,
       "name": "Royal Palace",
-      "description": "The royal residence, known for its stunning architecture and Silver Pagoda.",
+      "description": "The royal residence, known for its stunning architecture and Silver Pagoda, the Royal Palace is one of Phnom Penh’s most iconic landmarks. Visitors can explore its opulent structures and lush gardens, learning about Cambodia’s royal history.",
       "image": "recreation/royalpalace.png",
       "pictures1": "recreation/royalpalace1.png",
       "pictures2": "recreation/royalpalace2.png",
@@ -491,7 +491,7 @@
     {
       "id": 49,
       "name": "Tuol Sleng Genocide Museum",
-      "description": "A poignant reminder of Cambodia’s tragic history during the Khmer Rouge era.",
+      "description": "A poignant reminder of Cambodia’s tragic history during the Khmer Rouge era, the Tuol Sleng Genocide Museum is housed in a former high school that was converted into a prison during the regime. It is a site for reflection and remembrance of the atrocities that occurred.",
       "image": "recreation/tuolslenggenocidemuseum.png",
       "pictures1": "recreation/tuolslenggenocidemuseum1.png",
       "pictures2": "recreation/tuolslenggenocidemuseum2.png",
@@ -501,7 +501,7 @@
     {
       "id": 50,
       "name": "Wat Phnom",
-      "description": "A historic Buddhist temple and iconic landmark in Phnom Penh.",
+      "description": "A historic Buddhist temple and iconic landmark in Phnom Penh, Wat Phnom is one of the city’s most important religious sites. The temple offers a peaceful escape from the urban hustle and bustle, with scenic views of the surrounding area.",
       "image": "recreation/watphnom.png",
       "pictures1": "recreation/watphnom1.png",
       "pictures2": "recreation/watphnom2.png",
